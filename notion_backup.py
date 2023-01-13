@@ -12,7 +12,7 @@ from notify import send
 # block id格式切记为-隔开!!!
 DEFAULT_BACKUP_CONFIG = {
     'spaces': [{
-        'space_name': 'space_name',
+        'space_name': 'shiyi',
         'space_blocks': [{
             'block_id': '12345678-1234-1234-1234-123456789123',
             'block_name': 'Home1'
